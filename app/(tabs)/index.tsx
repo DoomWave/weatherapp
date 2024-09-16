@@ -6,7 +6,7 @@ import UpcomingWeather from "@/components/UpcomingWeather"
 const App = () => {
   return (
     <View style={styles.container}> 
-      <UpcomingWeather/>
+
     </View>
   )
 }
